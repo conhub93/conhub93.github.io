@@ -35,5 +35,6 @@ You have the right to:
 ## 7. Contact Us
 If you have questions about this Privacy Policy or our data practices, please contact us at wizkiemedia@gmail.com.
 
+
 ## 8. Changes to This Policy
 We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy in the app and updating the "Last updated" date.
